@@ -1,0 +1,31 @@
+Les questions ou demandes de précisions à demander au prof (ici le client en RP) pour constituer l'e-mail :
+
+    1-Est-ce qu'un conducteur lorsqu'il doit indiquer la ville de départ ou d'arrivée d'un trajet, il peut écrire directement le nom de la ville
+    sans contrainte ou doit-il choisir dans une base de données de villes créée par défaut ?
+
+    2- Même question pour un passager : peut il indiquer un nom de ville sans contrainte ou bien est-il limité à :
+    - une base de données de villes créée par défaut,
+    - aux villes ajoutées par les conducteurs depuis le début de l'application,
+    - aux villes concernées par un trajet accessible, et où il reste de la place ?
+
+    3-Est-ce qu'on doit faire en sorte qu'il y ait différents types de comptes (invité, admin,...) ?
+
+    4-Est-ce que pour la sauvegarde des données, on doit faire une base de données permettant la concurrence d'accès ou on fait un simple
+    fichier texte ne le permettant pas mais étant plus facile à mettre en place (donc moins cher) ?
+
+    5-Doit-on faire une liste d'amis, et l'afficher dans notre application (car on a l'option 6) ?
+
+    6-Vaut-il mieux une section notification comme une messagerie pour afficher les alertes ou indiquer ces informations directement sur les trajets
+    correspondants (dans la liste des trajets et/ou dans son détail) ?
+
+    7-Lorsqu'un trajet est "expiré" doit-on le supprimer de la base de données ou simplement l'ignorer dans la gestion des trajets ?
+
+    8-L'interface doit-elle inclure l'internationalisation (la gestion des langues)?
+
+    9-Doit on permettre aux utilisateurs d'écrire librement leur profil (une sorte de description pour avoir les informations sur leur conduite) ou doit on les
+    brider en limitant les informations possibles à mettre (style de conduite : lent, moyenne ou rapide seulement par exemple).
+
+    10-Doit-il être possible pour un conducteur qui supprime un trajet de le restaurer ou est-il définitivement supprimé de la base de données (ou du fichier)
+
+    11-Un passager doit il rechercher un trajet en indiquant à la fois la ville de départ, d'arrivée et la date, ou bien peut-il en indiquer que 
+    deux voire qu'une des trois ?
